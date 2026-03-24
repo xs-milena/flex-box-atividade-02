@@ -79,7 +79,7 @@ h1 {
     flex-direction: row-reverse;
 }
 
-.box1-desafio {
-    background-color: #63b1bc;
-    margin-left: auto; /* "empurra" o 4,3,2 para o lado esquedo, ficando junto a borda*/
+.box4-desafio {
+    background-color: #efb661;
+    margin-right: auto; /* "empurra" o 4,3,2 para o lado esquedo, ficando junto a borda*/
 }
