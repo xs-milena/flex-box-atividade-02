@@ -33,8 +33,6 @@ h1 {
     margin: auto;
 }
 
-/* Insira o código abaixo */
-
 .container1 {
     display: flex;
     flex-direction: row;
