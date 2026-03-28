@@ -44,29 +44,34 @@ h1 {
 .container2 {
     display: flex;
     flex-direction: row;
-    justify-content: right;  
+    justify-content: right;
 }
 
 .container3 {
-   display: flex;
-   flex-direction:  row;
-   justify-content: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
 
 .container4 {
     display: flex;
     flex-direction: row;
-    justify-content: space-between; /*espaçamento total entre os elementos - junto a borda*/
+    justify-content: space-between;
+    /*espaçamento total entre os elementos - junto a borda*/
 }
+
 .container5 {
     display: flex;
     flex-direction: row;
-    justify-content: space-around; /*margem de espaçamento na borda (menor do que entre os elementos) e entre os elementos*/
+    justify-content: space-around;
+    /*margem de espaçamento na borda (menor do que entre os elementos) e entre os elementos*/
 }
+
 .container6 {
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly; /*espaçamento igual entre os elementos e a borda*/
+    justify-content: space-evenly;
+    /*espaçamento igual entre os elementos e a borda*/
 }
 
 .container-exercicioB {
@@ -81,5 +86,5 @@ h1 {
 
 .box4-desafio {
     background-color: #efb661;
-    margin-right: auto; /* "empurra" o 4,3,2 para o lado esquedo, ficando junto a borda*/
+    margin-right: auto;
 }
